@@ -59,7 +59,6 @@ const en = {
         '/conventions/styleguide.md',
         '/conventions/clean-code-typescript.md',
         '/conventions/branch-conventions.md',
-        '/conventions/commit-conventions.md',
         '/conventions/linting-and-formatting.md',
       ],
     },
